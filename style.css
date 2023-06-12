@@ -1,0 +1,33 @@
+.pb-5{
+    background-image: url(Sliki/lightCream.jpg);
+    align-items: center;
+}
+.fa-square-phone{
+    color: black;
+}
+.col{
+    width: 23rem;
+}
+.app{
+    max-width: 600px;
+}
+.text-overlay{
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 46px;
+    -webkit-text-stroke: 1px black;
+   color: white;
+   text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/05/02/10/70/360_F_502107061_JKj0HIYeI2Ag3xNjKCbE2KobpfIURlcX.jpg);
+}
+footer{
+    color: aliceblue;
+}
+
