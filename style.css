@@ -40,8 +40,8 @@
   #popup-content {
     background-color: white;
     padding: 20px;
-    text-align: center;
     border-radius: 20px;
+      width:400px;
   }
   #popup-content p{
     background-color: #eaa0a0;
