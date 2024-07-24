@@ -42,6 +42,7 @@
     padding: 20px;
     border-radius: 20px;
       width:400px;
+      text-align:center;
   }
   #popup-content p{
     background-color: #eaa0a0;
